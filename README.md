@@ -9,11 +9,13 @@
 
 In the project directory, you can run:
 
-To run the Front End
-### `npm start`
 
 To run the JSON server
 ### `serve -s build -p 5000`
+
+To run the Front End
+### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
